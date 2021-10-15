@@ -1,0 +1,16 @@
+C:\Users\Abby\source\repos\Authentication\bin\Debug\netcoreapp3.1\Authentication.exe
+C:\Users\Abby\source\repos\Authentication\bin\Debug\netcoreapp3.1\Authentication.deps.json
+C:\Users\Abby\source\repos\Authentication\bin\Debug\netcoreapp3.1\Authentication.runtimeconfig.json
+C:\Users\Abby\source\repos\Authentication\bin\Debug\netcoreapp3.1\Authentication.runtimeconfig.dev.json
+C:\Users\Abby\source\repos\Authentication\bin\Debug\netcoreapp3.1\Authentication.dll
+C:\Users\Abby\source\repos\Authentication\bin\Debug\netcoreapp3.1\Authentication.pdb
+C:\Users\Abby\source\repos\Authentication\obj\Debug\netcoreapp3.1\Authentication.csproj.AssemblyReference.cache
+C:\Users\Abby\source\repos\Authentication\obj\Debug\netcoreapp3.1\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abby\source\repos\Authentication\obj\Debug\netcoreapp3.1\Authentication.AssemblyInfoInputs.cache
+C:\Users\Abby\source\repos\Authentication\obj\Debug\netcoreapp3.1\Authentication.AssemblyInfo.cs
+C:\Users\Abby\source\repos\Authentication\obj\Debug\netcoreapp3.1\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Abby\source\repos\Authentication\obj\Debug\netcoreapp3.1\Authentication.dll
+C:\Users\Abby\source\repos\Authentication\obj\Debug\netcoreapp3.1\Authentication.pdb
+C:\Users\Abby\source\repos\Authentication\obj\Debug\netcoreapp3.1\Authentication.genruntimeconfig.cache
+C:\Users\Abby\source\repos\Authentication\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\Abby\source\repos\Authentication\obj\Debug\netcoreapp3.1\Authentication.csproj.CopyComplete
